@@ -1,0 +1,3 @@
+[submodule "qrx"]
+	path = qrx
+	url = git@github.com:qrxer/qrx.git
